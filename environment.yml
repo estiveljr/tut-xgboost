@@ -1,0 +1,19 @@
+channels:
+ - defaults
+ - conda-forge
+
+dependencies:
+ - python==3.10
+ - ipython
+ - jupyter
+ - pandas
+ - numpy
+ - pylint
+ - pytest
+ - pytest-cov
+ - nbval
+ - scikit-learn
+ - ydata-profiling
+ - pip
+ - pip:
+ - xgboost
