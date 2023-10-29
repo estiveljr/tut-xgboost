@@ -17,12 +17,12 @@ The datasets consists of several medical predictor variables and one target vari
 Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
 ### Columns
-1. Pregnancies
-1. Glucose
-1. BloodPressure
-1. SkinThickness
-1. Insulin
-1. BMI
-1. DiabetesPedigreeFunction
-1. Age
-1. Outcome
+1. **Pregnancies**: Number of times pregnant
+1. **Glucose**: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+1. **BloodPressure**: Diastolic blood pressure (mm Hg)
+1. **SkinThickness**: Triceps skin fold thickness (mm)
+1. **Insulin**: 2-Hour serum insulin (mu U/ml)
+1. **BMI**: Body mass index (weight in kg/(height in m)^2)
+1. **DiabetesPedigreeFunction**: Diabetes pedigree function
+1. **Age**: Age (years)
+1. **Outcome**: Class variable (0 or 1) 268 of 768 are 1, the others are 0
